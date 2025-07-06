@@ -29,22 +29,6 @@ Greedy Algorithms
 
 🧪 Practice & Problems
 
-🛠️ How to Use
-Clone the repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/PythonDSA.git
-cd PythonDSA
-Navigate to a topic folder and explore the .py files.
-
-Run scripts using:
-
-bash
-Copy
-Edit
-python3 filename.py
 🎯 Goals
 Build a strong foundation in Python
 
@@ -55,7 +39,6 @@ Prepare for technical interviews
 📝 Notes
 This is a learning-in-progress repo. I’ll keep updating and improving the code and explanations as I go.
 
-Feedback and suggestions are welcome!
 
 📎 License
 This repository is open-sourced under the MIT License.
